@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /assets/
 
-Sitemap: https://www.satkartartourandtravels.com/sitemap.xml
+Sitemap: https://satkartartravels.work.gd/sitemap.xml
